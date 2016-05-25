@@ -1,0 +1,51 @@
+		
+#right_column {
+	margin-left: 200px;
+	height: 100%;	
+	background: -moz-linear-gradient(#003D5C,#860D0E,#003D5C,#7A0000); 
+	background: linear-gradient(#003D5C,#860D0E,#003D5C,#7A0000);
+	}
+#right_column a{
+color :#FDA;
+}
+	
+.main_img {
+    min-width: 250px;
+    height: auto;
+    width: 100%; 
+	border-top-right-radius :60px;
+	border-bottom-left-radius :60px;
+	}
+	
+.img_list{
+float :left;
+display :block;
+margin :25px 11px 5px 11px;
+padding :2px;
+width :250px;
+height:150px;
+}
+.clear_it{
+clear :both;
+}
+#list_img p {
+color : #FDA;
+padding : 25px 5px 10px 5px;
+min-width :250px;
+}
+hr{
+margin-top :10px;
+margin-bottom :-10px;
+}
+
+span{
+font-size: 150%;
+text-decoration :underline;
+color:#FD8;
+margin-right :5px;
+}
+
+
+
+	
+	

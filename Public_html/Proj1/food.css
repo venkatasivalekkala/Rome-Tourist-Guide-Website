@@ -1,0 +1,60 @@
+		
+#right_column {
+	margin-left: 200px;
+	height: 100%;
+	background: linear-gradient(#003D5C,#7A0000,#003D5C,#7A0000);
+	}
+#right_column a{
+color :#FDA;
+}
+h2{
+text-align :center;
+margin-top :25px; 
+background: linear-gradient(#E44,#B24700,#722,#003D5C,#003D5C);
+padding :3px;
+color :#FFA;
+
+}
+span{
+font-size: 150%;
+padding-right:10px;
+}
+	
+.main_img {
+    min-width: 250px;
+    height: auto;
+    width: 100%; 
+	border-top-right-radius :60px;
+	border-bottom-left-radius :60px;
+	}
+	
+.img_list{
+float :left;
+display :block;
+margin :25px 11px 5px 11px;
+padding :2px;
+width :250px;
+height:150px;
+border-top-left-radius :30px;
+border-bottom-right-radius :30px;
+}
+.clear_it{
+clear :both;
+margin :0px auto 0px auto;
+}
+#list_img p {
+color : #FEC;
+padding : 25px 5px 10px 5px;
+min-width :250px;
+}
+hr{
+margin-top :10px;
+margin-bottom :-10px;
+}
+
+
+
+
+
+	
+	

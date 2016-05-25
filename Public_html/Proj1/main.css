@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    }
+     
+html, body {
+	height: 100%;
+	background-color: #860D0E;	
+	}
+	
+h1{
+text-align :center;
+background-color:#660D0E;
+color:#FD8;
+padding :20px 0px ;
+background: -webkit-linear-gradient(red, blue); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(red, blue); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#E44, #722,#003D5C); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#E44, #722,#003D5C);
+}
+
+#container{
+margin : 0px auto;
+}
+	
+#left_column {
+	position :fixed;
+	float: left;
+	width: 199px;
+	height: 100%;	
+	color: black;	
+	background: -moz-linear-gradient(#003D5C,#860D0E ,#860D0E,#860D0E 60%,#7A0000 ,#003D5C); 
+	background: linear-gradient(#003D5C,#860D0E,#860D0E ,#860D0E 60%,#7A0000 ,#003D5C);
+	border-right :1px solid #470D0E;
+	}
+	
+
+#left_column ul{
+margin-top : 40Px;
+width :199px;
+float :left;
+background-color: #860D0E;
+border-right :1px solid #470D0E;
+}
+
+#left_column li{
+
+	display: block;
+    margin:20px 0px 20px -4px; 
+    background-color: #860D0E;
+
+}
+#left_column a:hover {
+    color:  #860D0E;
+    background-color: #FFF0DA;
+}
+#left_column a:active {
+    color: #A7A68C;
+}
+#left_column a {
+    text-decoration: none;
+    padding: 5px 15px 5px 15px;
+    font-weight: bold;
+    border: 2px solid #860D0E;
+    color:  #FFF0DA;
+    background-color: #860D0E;
+    }                 
+	
